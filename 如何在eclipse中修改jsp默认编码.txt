@@ -1,0 +1,3 @@
+﻿https://jingyan.baidu.com/article/f96699bbb151d6894e3c1b08.html
+
+windows-->preference-->Web-->jsp files-->encoding-->UTF-8
